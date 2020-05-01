@@ -24,7 +24,7 @@ permalink: pretty
 paginate:  10
 
 text_skin: dark
-highlight_theme:tomorrow-night-bright
+highlight_theme: tomorrow-night-bright
 
 sass:
   style: compressed
