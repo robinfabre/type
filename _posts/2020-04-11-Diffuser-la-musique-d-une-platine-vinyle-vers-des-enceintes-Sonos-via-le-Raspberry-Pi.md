@@ -146,7 +146,7 @@ Une fois que le Raspberry à redémarré, lancé votre navigateur et connectez-v
 
 Pour récupérer le lien de streaming, il vous suffit de faire un clic droit sur le lien M3U et de copier l'adresse du lien.
 
-![](/images/posts/darkrice.gif)
+![alt](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/darkrice.gif)
 
 
 
@@ -167,21 +167,21 @@ Pour ce faire, il vous faut obligatoirement la version de bureau de l'applicatio
 Dans l'application Sonos allez dans `Gérer > Ajouter une station de radio...`
 et collez l'adresse du lien M3U dans la partie URL du flux puis donnez un titre à votre station (la mienne s'appelle Vinyle).
 
-![](/images/posts/sonos.png)
+![alt](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/sonos.png)
 
 Pour jouer la musique sur votre enceinte Sonos, il vous suffit d'aller ensuite dans `Radio via TuneIn > Mes stations de radio` puis de double cliquer sur le nom de la station (je vous conseille aussi de faire un `clic droit > Ajouter au favoris Sonos`).\
 
 
-![](/images/posts/sonos2.png)
+![alt](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/sonos2.png)
 
 A partir de là, vous devriez être en mesure d'entendre le son de la platine sur votre enceinte Sonos.
 Si vous avez rajouté la station à vos favoris, vous pourrez aussi lancer le streaming via l'application mobile.
 
-![alt](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/sonosApp.jpeg)
+![alt](https://github.com/robinfabre/blog/blob/gh-pages/images/posts/sonosApp.jpeg)
 
 
 
 Source : https://github.com/basdp/USB-Turntables-to-Sonos-with-RPi/blob/master/README.md
 
 
-[![](/images/posts/20191028195532-Wordmark_black_vector.jpg)](https://www.buymeacoffee.com/robinfabre)
+[![](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/20191028195532-Wordmark_black_vector.jpg)](https://www.buymeacoffee.com/robinfabre)
