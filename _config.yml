@@ -7,14 +7,14 @@
 
 # Site settings
 title:       'R.F blog'
-email:       ''
+email:       'fabre.robin@gmail.com'
 description: ''
 baseurl:     '/blog' # The subpath of your site, e.g. /blog
 url:         'https://robinfabre.github.io' # The base hostname & protocol for your site
-twitter:     'robinfabre'
-github:      'robinfabre'
-instagram:   'robinfabre'
-facebook:    ''
+twitter:     'https://twitter.com/robinfabre'
+github:      'https://github.com/robinfabre'
+instagram:   'https://www.instagram.com/robinfabre/'
+#facebook:    ''
 
 lang: fr
 timezone: Europe/Paris
