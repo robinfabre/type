@@ -9,11 +9,11 @@
 title:       Type
 email:       ''
 description: ''
-baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
+baseurl:     '/blog' # The subpath of your site, e.g. /blog
+url:         'https://robinfabre.github.io' # The base hostname & protocol for your site
+twitter:     'robinfabre'
+github:      'robinfabre'
+instagram:   'robinfabre'
 facebook:    ''
 
 markdown:  kramdown
