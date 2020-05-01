@@ -177,7 +177,7 @@ Pour jouer la musique sur votre enceinte Sonos, il vous suffit d'aller ensuite d
 A partir de là, vous devriez être en mesure d'entendre le son de la platine sur votre enceinte Sonos.
 Si vous avez rajouté la station à vos favoris, vous pourrez aussi lancer le streaming via l'application mobile.
 
-![](/images/posts/sonosApp.jpeg)
+![alt](/images/posts/sonosApp.jpeg)
 
 
 Source : https://github.com/basdp/USB-Turntables-to-Sonos-with-RPi/blob/master/README.md
