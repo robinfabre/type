@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Diffuser la musique d'une platine vinyle vers des enceintes Sonos via le Raspberry Pi
-date: 2020-04-11
-tags: [raspberry, sonos, darkrice, icecast]
+tags: [sonos, raspberry, icecast, darkrice]
+image: '/images/posts/8.jpg'
 ---
 
 Pour éviter d'investir dans un Sonos Port à 449€, j'ai tenté de trouver comment mettre à contribution l'un des mes Raspberry Pi pour diffuser le son de ma platine vinyle vers ma Sonos Beam.
