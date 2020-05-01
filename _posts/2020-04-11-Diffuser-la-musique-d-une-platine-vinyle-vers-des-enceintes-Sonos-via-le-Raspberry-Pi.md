@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Diffuser la musique d'une platine vinyle vers des enceintes Sonos via le Raspberry Pi
 date: 2020-04-11
