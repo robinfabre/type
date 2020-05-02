@@ -83,7 +83,7 @@ sudo dpkg -i darkice_1.0.1-999_mp3+1_armhf.deb
 sudo apt-get install -f
 ```
 
-## 6. Installation de Icecast
+## 5. Installation de Icecast
 
 ```sh
 sudo apt-get install icecast2
@@ -92,7 +92,7 @@ sudo apt-get install icecast2
 Sélectionnez `Yes` pour configurer Icecast. 
 Vous pouvez si vous le souhaitez laisser tous les paramètres par défaut mais je vous conseille quand même de changer le mot de passe.
 
-## 7. Configurer Darkice
+## 6. Configurer Darkice
 Darkice va être le logiciel qui va enregistrer le son qui arrive de la platine vinyle via le port USB et va le transformer au format mp3.
 
 Pour le configurer, il faut créer le fichier  `/etc/darkice.cfg` (avec la commande `sudo nano /etc/darkice.cfg`) et le remplir avec les éléments suivants:
@@ -126,7 +126,7 @@ description	= Turntable
 
 Attention à bien mettre mot de passe utilisé lors de l'installation de icecast à la ligne password (ici raspberry est celui par défaut).
 
-## 8. Lancement automatique de Darkice
+## 7. Lancement automatique de Darkice
 
 ```bash
 wget https://raw.githubusercontent.com/basdp/USB-Turntables-to-Sonos-with-RPi/master/init.d-darkice
@@ -138,7 +138,7 @@ sudo chmod 777 /etc/init.d/darkice
 sudo update-rc.d darkice defaults
 ```
 
-## 9. Vérifier si le streaming fonctionne
+## 8. Vérifier si le streaming fonctionne
 
 Redémarrez le Raspberry Pi dans le but de vérifier que tout fonctionne correctement  (commande `sudo reboot` dans le terminal). 
 
@@ -160,7 +160,7 @@ Si tout a marché, vous devriez être en mesure d'entendre la musique via VLC.
 
 
 
-## 10. Ajouter le stream à votre installation Sonos.
+## 9. Ajouter le stream à votre installation Sonos.
 
 Pour ce faire, il vous faut obligatoirement la version de bureau de l'application Sonos (impossible de le faire sur la version mobile).
 
