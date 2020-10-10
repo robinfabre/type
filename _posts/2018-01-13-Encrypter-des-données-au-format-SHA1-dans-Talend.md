@@ -2,7 +2,7 @@
 layout: post
 title: Encrypter des données au format SHA1 dans Talend
 tags: [talend, tuto, encryption, sha1, DigestUtils]
-image: '/images/posts/Sha1_Library.jpeg'
+image: '/images/posts/SHA1.png'
 ---
 
 ## Objectif
