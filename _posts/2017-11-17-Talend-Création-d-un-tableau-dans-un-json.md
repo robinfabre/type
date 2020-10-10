@@ -115,5 +115,5 @@ Ci-dessous le job d'exemple développé avec la version 7.0.1 de Talend.
 [![](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/zipFile.jpg)](https://github.com/robinfabre/blog/blob/gh-pages/files/Creation_d_un_tableau_dans_un_json.zip?raw=true)
 
 
-[![](http://www.blog.robinfabre.fr/content/images/20191028195532-Wordmark_black_vector.jpg)](https://www.buymeacoffee.com/robinfabre)
+[![](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/20191028195532-Wordmark_black_vector.jpg)](https://www.buymeacoffee.com/robinfabre)
  
