@@ -2,7 +2,7 @@
 layout: post
 title: Endpoint REST Extraction d’un message de type form
 tags: [talend, tuto, webservice, rest, form]
-image: 'images/posts/Vue_globale.png'
+image: '/images/posts/Vue_globale.png'
 ---
 
 ## Objectif
