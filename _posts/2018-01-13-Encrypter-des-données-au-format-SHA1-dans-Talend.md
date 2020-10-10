@@ -30,21 +30,25 @@ Dans Advanced settings, nous importons la librairie à utiliser :
 
 Dans les Paramètres simples, voici un exemple de code pour appliquer le hashage SHA1 : 
 
-`String concat = « Un.petit.test »;
+```
+String concat = « Un.petit.test »;
+
 String transfoSHA1 = DigestUtils.shaHex(concat);
-System.out.println(« Result : «  + transfoSHA1);`
+
+System.out.println(« Result : «  + transfoSHA1);
+```
 
 ## Résultat
 
 Après execution, nous obtenons le résultat suivant : 
 
-`Démarrage du job test_hashage a 12:07 27/02/2019.
+```
+Démarrage du job test_hashage a 12:07 27/02/2019.
 [statistics] connecting to socket on port 4003
 [statistics] connected
 Result : 3493d68fa6a5143b38f84cb7e3f63e7847c4dd89
 [statistics] disconnected
-Job test_hashage terminé à 12:07 27/02/2019. [Code sortie=0]`
-
-
+Job test_hashage terminé à 12:07 27/02/2019. [Code sortie=0]
+```
 
 [![](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/20191028195532-Wordmark_black_vector.jpg)](https://www.buymeacoffee.com/robinfabre)
