@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Endpoint REST Extraction d’un message de type form dans Talend
-tags: [talend, tuto, webservice, rest, form]
+tags: [talend, tuto, webservice, rest, form, tRestRequest, x-www-form-urlencoded]
 image: '/images/posts/Vue_globale.png'
 ---
 
