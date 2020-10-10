@@ -2,7 +2,7 @@
 layout: post
 title: WS REST Extraction d’un message de type form
 tags: [talend, tuto, webservice, rest, form]
-image: 
+image: 'images/posts/Vue_globale.png'
 ---
 
 ## Objectif
