@@ -23,7 +23,7 @@ Pour cela nous utilisons les composants Talend [tLibraryLoad](https://help.talen
 
 ## Utilisation de DigestUtils
 
-Nous utilisons un tJava.
+Nous utilisons un [tJava](https://help.talend.com/reader/atTvdntoupqchAynyb03~Q/sSh_6LAVLHtLJc5jL6e21Q).
 Dans Advanced settings, nous importons la librairie à utiliser :
 
 `import org.apache.commons.codec.digest.DigestUtils;`
