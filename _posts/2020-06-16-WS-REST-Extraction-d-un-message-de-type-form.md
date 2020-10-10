@@ -120,3 +120,6 @@ Démarrage du job ws000_point_entree_test a 11:09 28/02/2019.
 |John|Rambo |55 |
 '----+------+---'
 ```
+
+
+[![](https://raw.githubusercontent.com/robinfabre/blog/gh-pages/images/posts/20191028195532-Wordmark_black_vector.jpg)](https://www.buymeacoffee.com/robinfabre)
